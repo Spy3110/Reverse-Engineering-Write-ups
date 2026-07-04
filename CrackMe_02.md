@@ -18,5 +18,8 @@ I converted the hexadecimal values to decimal using Ghidra's built-in converter.
 # 5. Conclusion & Flags
 Entering 33 followed by 102 successfully triggered the success message: _Congratulations, you have completed the challenge!_
 
+<img width="787" height="121" alt="image" src="https://github.com/user-attachments/assets/ba1caeee-786c-42cb-b58b-d24311adf9f6" />
+
+
 # Personal Thoughts
 ...okay maybe it was too easy. 😐 I'll hunt for better one. But at least I did it after ghosting it for months. 😁
